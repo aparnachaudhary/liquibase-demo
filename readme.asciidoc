@@ -1,2 +1,21 @@
-liquibase-demo
-==============
+== Liquibase Examples ==
+
+This project demonstrates usage of Liquibase - database change management tool.
+
+=== Building: ===
+
+.Requirements:
+* Apache Maven version 3
+
+To build, issue this from the command line:
+[source]
+----
+mvn clean install
+----
+
+=== How it works: ===
+TODO:
+
+=== Licensing and Copyright: ===
+
+The project is licensed under the http://www.apache.org/licenses/LICENSE-2.0[Apache License, Version 2.0]
